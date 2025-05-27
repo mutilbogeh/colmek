@@ -1,3 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
+Sitemap: https://colmek.pages.dev/sitemap.xml
